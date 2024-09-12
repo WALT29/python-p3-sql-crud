@@ -1,0 +1,1 @@
+UPDATE cats SET name="miles" WHERE name="Baru";
